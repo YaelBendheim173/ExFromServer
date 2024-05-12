@@ -1,0 +1,15 @@
+H:\server\lesson11_new\BL\bin\Debug\net7.0\BL.deps.json
+H:\server\lesson11_new\BL\bin\Debug\net7.0\BL.dll
+H:\server\lesson11_new\BL\bin\Debug\net7.0\BL.pdb
+H:\server\lesson11_new\BL\bin\Debug\net7.0\DataAccess.dll
+H:\server\lesson11_new\BL\bin\Debug\net7.0\DataAccess.pdb
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.dll
+H:\server\lesson11_new\BL\obj\Debug\net7.0\refint\BL.dll
+H:\server\lesson11_new\BL\obj\Debug\net7.0\BL.pdb
+H:\server\lesson11_new\BL\obj\Debug\net7.0\ref\BL.dll

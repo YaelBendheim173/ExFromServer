@@ -1,0 +1,108 @@
+{
+	"info": {
+		"_postman_id": "04b361b1-5b12-49ab-bf82-7d7b352e7a11",
+		"name": "Lesson_11",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31877838"
+	},
+	"item": [
+		{
+			"name": "GetByYear",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7091/api/university?PageSize=10&Year=2011&PageNumber=90",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7091",
+					"path": [
+						"api",
+						"university"
+					],
+					"query": [
+						{
+							"key": "PageSize",
+							"value": "10"
+						},
+						{
+							"key": "Year",
+							"value": "2011"
+						},
+						{
+							"key": "PageNumber",
+							"value": "90"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByUniversityName",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7091/api/university?PageSize=10&UniversityName=California Institute of Technology&PageNumber=12",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7091",
+					"path": [
+						"api",
+						"university"
+					],
+					"query": [
+						{
+							"key": "PageSize",
+							"value": "10"
+						},
+						{
+							"key": "UniversityName",
+							"value": "California Institute of Technology"
+						},
+						{
+							"key": "PageNumber",
+							"value": "12"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByCountryId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7091/api/university?PageSize=10&CountryId=13",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7091",
+					"path": [
+						"api",
+						"university"
+					],
+					"query": [
+						{
+							"key": "PageSize",
+							"value": "10"
+						},
+						{
+							"key": "CountryId",
+							"value": "13"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

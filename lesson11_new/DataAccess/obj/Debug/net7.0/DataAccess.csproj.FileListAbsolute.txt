@@ -1,0 +1,56 @@
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+H:\server\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+H:\server\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+H:\server\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.dll
+H:\server\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.dll
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+H:\server\lesson11\lesson11\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\User\Desktop\יעלי\SERVER\lesson11\lesson11\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.dll
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.dll
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+H:\server\יעלי בנדהיים-Lesson_11\lesson11\lesson11\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+H:\server\lesson11_new\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+H:\server\lesson11_new\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+H:\server\lesson11_new\DataAccess\bin\Debug\net7.0\DataAccess.dll
+H:\server\lesson11_new\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.dll
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+H:\server\lesson11_new\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

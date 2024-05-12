@@ -1,0 +1,101 @@
+{
+	"info": {
+		"_postman_id": "c752375e-4041-465d-8cec-e14492c38f05",
+		"name": "Lesson11",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31877838",
+		"_collection_link": "https://lunar-space-651872.postman.co/workspace/HWserver~9dbf3725-ab8c-44a1-8c73-f3d1390f3465/collection/31877838-c752375e-4041-465d-8cec-e14492c38f05?action=share&creator=31877838&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "GetByCountryId",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7091/api/ury?PageSize=3&CountryId=13",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7091",
+					"path": [
+						"api",
+						"ury"
+					],
+					"query": [
+						{
+							"key": "PageSize",
+							"value": "3"
+						},
+						{
+							"key": "CountryId",
+							"value": "13"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByYear",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7091/api/ury?PageSize=3&Year=2012",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7091",
+					"path": [
+						"api",
+						"ury"
+					],
+					"query": [
+						{
+							"key": "PageSize",
+							"value": "3"
+						},
+						{
+							"key": "Year",
+							"value": "2012"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByUniversityName",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7091/api/ury?PageSize=3&UniversityName=California Institute of Technology",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7091",
+					"path": [
+						"api",
+						"ury"
+					],
+					"query": [
+						{
+							"key": "PageSize",
+							"value": "3"
+						},
+						{
+							"key": "UniversityName",
+							"value": "California Institute of Technology"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
